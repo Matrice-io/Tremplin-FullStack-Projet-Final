@@ -21,21 +21,24 @@
     - [ ] un client avec ReactJS
     - [ ] un fichier README.md (comportant le titre, une description et comment lancer l’application)
 
+### Fonctionnalités minimales attendues :
+
+
 - [ ] Serveur et BDD : Le serveur devra comporter a minima une route pour CREATE et une route pour READ , ces routes devront écrire et lire dans la base de données. Les données devront être persistantes.
+<br>
 
 - [ ] Interface : L’interface devra pouvoir afficher les données récupérées depuis le serveur (dans la BDD) et également permettra d’en créer. Elle devra permettre de naviguer entre les pages.
-
-- [ ] Les fonctionnalités monimales sont listées ci-dessous :
-
-### Fonctionnalités minimales attendues :
+<br>
 
 - [ ] Il existe une page 404 de redirection 
 <br>
+
 - [ ] Pour la marketplace :
     - [ ] une page d’affichage des produits (photo, description, prix)
     - [ ] une page détail du produit permettant de l’ajouter au panier
     - [ ] une page panier permettant enlever/ajouter des produits et d’acheter les produits (=envoyer une liste de produit à l’API)
 <br>
+
 - [ ] Pour l’app partage de média:
     - [ ] une page d’affichage des posts 
     - [ ] une page détail du post
