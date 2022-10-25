@@ -39,7 +39,7 @@
     - [ ] une page panier permettant enlever/ajouter des produits et d’acheter les produits (=envoyer une liste de produit à l’API)
 <br>
 
-- [ ] Pour l’app partage de média:
+- [ ] Pour le blog/forum/réseau social:
     - [ ] une page d’affichage des posts 
     - [ ] une page détail du post
     - [ ] un formulaire de publication de post avec au choix : 
